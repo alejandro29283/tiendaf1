@@ -1,0 +1,27 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+        }
+        .news-item {
+            background-color: #900;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            display: flex;
+        }
+        .news-item h2 {
+            color: #FFD700; 
+        }
+        .news-item p {
+            color: #fff;
+        }
+        .news-item img {
+            width: 100%;
+            height: auto;
+            margin-right: 30px;
+            margin-left: 30px;
+        }
